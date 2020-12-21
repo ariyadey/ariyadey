@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariya</h1>
 <h3 align="center">A passionate full-stack developer from Persia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyadey&label=Profile%20views&color=0e75b6&style=flat" alt="ariyadey" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariyadey" alt="ariyadey" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [ariya-mms@github.io](ariya-mms@github.io)
