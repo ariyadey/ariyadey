@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariyadey" alt="ariyadey" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ariya-mms@github.io](ariya-mms@github.io)
+- 👨‍💻 All of my projects are available at [ariyadey@github.io](ariyadey@github.io)
 
 - 📫 How to reach me **ariya.mms@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/sh/6rsco4k1jhxv0c8/AADiLE8Oi4YCxfao7abyPZrna?dl=0](https://www.dropbox.com/sh/6rsco4k1jhxv0c8/AADiLE8Oi4YCxfao7abyPZrna?dl=0)
+- 📄 Know about my experiences [Resume](https://www.dropbox.com/sh/6rsco4k1jhxv0c8/AADiLE8Oi4YCxfao7abyPZrna?dl=0)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
