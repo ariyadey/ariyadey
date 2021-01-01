@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ariya</h1>
+<h1 align="center">Ariya (Mojtaba) Moheb</h1>
 <h3 align="center">A passionate full-stack developer from Persia</h3>
 
 - 👨‍💻 My personal website: [ariyadey@github.io](ariyadey@github.io)
