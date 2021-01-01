@@ -23,10 +23,4 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariyadey&theme=onedark" alt="ariyadey" /></a> </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ariyadey&show_icons=true&locale=en&theme=onedark" alt="ariyadey" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyadey&theme=onedark" alt="ariyadey" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyadey&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ariyadey" /></p>
