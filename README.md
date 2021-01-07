@@ -1,7 +1,7 @@
 <h1 align="center">Ariya (Mojtaba) Moheb</h1>
 <h3 align="center">A passionate full-stack developer from Persia</h3>
 
-- 👨‍💻 My personal website: [ariyadey@github.io](ariyadey@github.io)
+- 👨‍💻 My personal website: [ariyadey.github.io](ariyadey@github.io)
 
 - 📫 How to reach me: **ariya.mms@gmail.com**
 
